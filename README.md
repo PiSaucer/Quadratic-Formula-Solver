@@ -63,14 +63,14 @@ Plug in the Number then comes out the numbers.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/PiSaucer/PIP-OS-R-V7.1.0.8/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/PiSaucer/) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
 
 * *Initial work* - [PiSaucer](https://github.com/PiSaucer)
 
-See also the list of [contributors](https://github.com/PiSaucer/PIP-OS-R-V7.1.0.8/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/PiSaucer/Quadratic-Formula-Solver/graphs/contributors) who participated in this project.
 
 ## License
 
